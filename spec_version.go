@@ -9,4 +9,4 @@ package ezclassify
 // Between releases it carries the development version of the next release.
 // Every release sets it to the released module version. Do not edit it
 // by hand.
-const clientSpecVersion = "1.0.0-dev.30"
+const clientSpecVersion = "1.0.0-rc.0"
